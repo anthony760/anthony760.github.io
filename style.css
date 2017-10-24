@@ -21,3 +21,7 @@ a:hover {
   color: #FA58F4;
   text-decoration: none;
 }
+
+div#main {
+  padding: 5px 5px 5px 5px;
+}
