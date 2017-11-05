@@ -23,11 +23,29 @@ body {
   font-size: 150%;
 }
 
+ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+ul i {
+  padding-right: .5em;
+}
+
+li {
+  line-height: 2em;
+}
+
 a {
   color: white;
+  text-decoration: underline;
 }
 
 a:hover {
-  color: #FA58F4;
+  color: rgb(255, 0, 119);
   text-decoration: none;
+}
+
+a:active {
+  color: #FA58F4;
 }
